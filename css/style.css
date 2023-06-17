@@ -1,0 +1,242 @@
+.power {
+  margin: 0 auto;
+  width: 90%;
+  background-color:  #F5F5F5;
+}
+.powerheading {
+  padding: 94px 474px 0;
+  width: 492px;
+  height: 45px;
+  
+  
+}
+.powerparagraph {
+ margin-top: 28px;
+ padding-left: 329px;
+ padding-right: 328px;
+  width: 783px;
+  height: 30px;
+}
+.powerimg {
+  padding-left: 222px;
+  padding-right: 222px;
+  margin-top: 90px;
+  height: 560px;
+}
+ .powerimg img {max-width: 100%;} 
+.powerbutton {
+ margin-top: 76px;
+  padding-bottom: 101px;
+  padding-left: 521px;
+}
+.p1 {
+  display: inline-block;
+  width: 99px;
+  padding: 11px 45px 14px;
+  border-radius: 30px;
+  margin-right: 22px;
+ background-color: #6F2CFF;
+}
+.p2 {
+  display: inline-block;
+  padding: 11px 45px 14px;
+  width: 97px;
+  border-radius: 30px;
+  background-color: #FFFFFF;
+}
+.brands {
+  margin: 0 auto;
+  width: 95%;
+  background-color: #FFFFFF;
+}
+.brandsheading {
+  padding: 88px 466px 0 467px;
+  width: 507px;
+}
+ 
+.brandsimg {
+  width:100%;
+  margin-top: 75px ;
+  padding-left: 199px;
+  padding-bottom: 105px;
+}
+.brandsimg1 {
+ 
+  display: inline-block;
+  background-color: #F5F5F5;
+}
+.brandsimg2 {
+
+  display: inline-block;
+  margin:0 40px;
+ 
+  background-color: #F5F5F5;
+}
+.brandsimg3 {
+  display: inline-block;
+  
+  background-color: #F5F5F5;
+  
+ 
+}
+  .img {
+    margin-top: 25px;
+    padding-right: 128px;
+    padding-left: 128px;
+  }
+  .industry {
+    background-color: #F5F5F5;;
+  }
+  .industryheading {
+    padding: 64px 433px 0;
+  }
+  .industryparagraph {
+    margin-top: 12px;
+    padding-left: 437px;
+    padding-right: 436px;
+  }
+   .industryproducts {
+    margin-left: 100px;
+   }
+  .industryproducts1 {
+    display: inline-block;
+    padding-left: 32px;
+    padding-bottom: 23px;
+    border-radius: 20px;
+    background-color: #17002E;
+    color: white;
+
+  }
+
+  .industryimg1 {
+    display: inline-block;
+    padding-top: 42px;
+    padding-left: 32px;
+    margin-right: 24px;
+    margin-bottom: 25px;
+  }
+  .industryimg1 {max-width: 100%;}
+  .industryproducts1heading {
+    display: inline-block;
+    padding-top: 42px;
+    padding-right: 177px;
+    margin-bottom: 31px;
+  }
+ .industryproducts1p1 {
+ 
+  padding-right: 53px;
+ }
+ .industryproducts1p2 {
+  margin-top: 8px;
+  padding-right: 87px;
+ }
+ .industryproducts2 {
+  display: inline-block;
+  padding-top: 42px;
+  background-color: #17002E;
+  border-radius: 20px;
+  margin-left: 30px;
+  color: white;
+ }
+  .industryproductsimg2 {
+    display: inline-block;
+    padding-left: 35px;
+    
+  }
+.industryproducts2heading {
+  display: inline-block;
+  margin-left: 25px;
+ 
+  padding-right: 313px;
+}
+.industryproductsparagraph {
+  padding-left: 32px;
+  padding-bottom: 22px;
+}
+.industryproducts2p1 {
+  margin-top: 31px;
+  padding-right: 111px;
+}
+.industryproducts2p1 {
+  margin-top: 8px;
+  padding-right: 204px;
+}
+.industryproducts3 {
+  background-color: #17002E;
+  display: inline-block;
+  margin-top: 30px;
+  border-radius: 20px;
+  color: white;
+}
+.industryimg3 {
+  display: inline-block;
+  padding-top: 33px;
+  padding-left: 34px;
+  height: 5.25px;
+}
+.industryproducts3h2 {
+  display: inline-block;
+  padding-top: 42px;
+  padding-right: 322px;
+  margin-left: 29px;
+}
+.industryproducts3p {
+  padding-left: 32px;
+  padding-bottom: 22px;
+}
+.industryproducts4 {
+  display: inline-block;
+  background-color: #17002E;
+  margin-top: 30px;
+  margin-left: 30px;
+  padding-left: 32px;
+  padding-bottom: 22px;
+  border-radius: 20px;
+  color: white;
+}
+.industryimg4 {
+  display: inline-block;
+  padding-top: 40px;
+}
+.industryproducts4h2 {
+  display: inline-block;
+  margin-left: 21px;
+  padding-top: 42px;
+  padding-right: 315px;
+}
+.industryproducts5 {
+  display: inline-block;
+  background-color: #17002E;
+  margin-top: 30px;
+  border-radius: 20px;
+  color: white;
+}
+.industryimg5 {
+padding-top: 34px;
+padding-left: 38px;
+display: inline-block;
+}
+.industryproducts5h2 {
+  display: inline-block;
+  margin-left: 31px;
+  padding-top: 42px;
+  padding-right: 236px;
+} 
+.industryproducts5p {
+  padding-left: 32px;
+  padding-bottom: 22px;
+}
+.industryproducts6 {
+  display: inline-block;
+  background-color: #17002E;
+  color: white;
+  margin-left: 30px;
+  padding-left: 32px;
+  padding-bottom: 22px;
+  border-radius: 20px;
+}
+.industryproducts6h2 {
+  display: inline-block;
+  margin-left: 33px;
+  padding-right: 243px;
+}
